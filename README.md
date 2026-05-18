@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, eu sou o Apolo<br><br>Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br><br>Atualmente foco meus estudos em Java, lógica de programação, banco de dados e desenvolvimento de sistemas, enquanto desenvolvo projetos pessoais e acadêmicos para ganhar experiência prática e ampliar meu conhecimento.</p>
+<p align="left">Hello, eu sou o Apolo<br><br>Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br><br>Atualmente foco meus estudos em Java, lógica de programação, banco de dados e desenvolvimento de sistemas, enquanto desenvolvo projetos pessoais e acadêmicos para ganhar experiência prática e ampliar meu conhecimento.<br><br>Page: matheusapolo.github.io<br>Linkedin: linkedin.com/in/matheus-de-castro-b6069440b</p>
 
 ###
 

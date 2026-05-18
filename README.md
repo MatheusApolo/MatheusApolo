@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-Hello, eu sou o Apolo<br><br>
+Hello, eu sou o Apolo<br>
 
-Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br><br>
+Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br>
 
 Atualmente foco meus estudos em Java, lógica de programação, banco de dados e desenvolvimento de sistemas, enquanto desenvolvo projetos pessoais e acadêmicos para ganhar experiência prática e ampliar meu conhecimento.<br><br>
 

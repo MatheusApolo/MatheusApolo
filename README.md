@@ -22,7 +22,7 @@ Atualmente foco meus estudos em Java, lógica de programação, banco de dados e
 <p align="left">
 🎓 Estudante de Engenharia de Software  <br>
 💻 Focado em desenvolvimento back-end, Java e construção de sistemas  <br>
-🚀 Interessado em arquitetura de software, banco de dados e soluções SaaS <br><br>
+🚀 Interessado em arquitetura de software, banco de dados e soluções SaaS <br>
 
 Sou apaixonado por tecnologia, programação e resolução de problemas.  
 Atualmente estudo Engenharia de Software e desenvolvo projetos acadêmicos e pessoais para evoluir minhas habilidades práticas em desenvolvimento de sistemas.<br><br>

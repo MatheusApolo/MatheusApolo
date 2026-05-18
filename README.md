@@ -1,8 +1,18 @@
+<```html
 <h1 align="left">👋 Bem vindo ao meu perfil</h1>
 
 ###
 
-<p align="left">Hello, eu sou o Apolo<br><br>Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br><br>Atualmente foco meus estudos em Java, lógica de programação, banco de dados e desenvolvimento de sistemas, enquanto desenvolvo projetos pessoais e acadêmicos para ganhar experiência prática e ampliar meu conhecimento.<br><br>Page: matheusapolo.github.io<br>Linkedin: linkedin.com/in/matheus-de-castro-b6069440b</p>
+<p align="left">
+Hello, eu sou o Apolo<br><br>
+
+Movido por tecnologia, programação e criação de soluções, estou construindo minha trajetória na área de Engenharia de Software através de projetos práticos, aprendizado constante e muita curiosidade sobre como sistemas funcionam.<br><br>
+
+Atualmente foco meus estudos em Java, lógica de programação, banco de dados e desenvolvimento de sistemas, enquanto desenvolvo projetos pessoais e acadêmicos para ganhar experiência prática e ampliar meu conhecimento.<br><br>
+
+🌐 Page: <a href="https://matheusapolo.github.io" target="_blank">matheusapolo.github.io</a><br>
+💼 Linkedin: <a href="https://linkedin.com/in/matheus-de-castro-b6069440b" target="_blank">linkedin.com/in/matheus-de-castro-b6069440b</a>
+</p>
 
 ###
 
@@ -10,7 +20,33 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia de Software  <br>💻 Focado em desenvolvimento back-end, Java e construção de sistemas  <br>🚀 Interessado em arquitetura de software, banco de dados e soluções SaaS <br><br>Sou apaixonado por tecnologia, programação e resolução de problemas.  <br>Atualmente estudo Engenharia de Software e desenvolvo projetos acadêmicos e pessoais para evoluir minhas habilidades práticas em desenvolvimento de sistemas.<br><br>Tenho interesse principalmente em:<br><br>- Desenvolvimento Back-end<br>- Java<br>- Spring<br>- Banco de Dados<br>- APIs REST<br>- Arquitetura de Software<br>- Desenvolvimento SaaS<br><br>## 📚 Projetos<br><br>🔹 Soluções em Java<br>🔹 Exercícios de lógica de programação  <br>🔹 Projetos pessoais voltados para automação e SaaS  <br>🔹 Desenvolvimento de portfólio pessoal  <br><br>⭐ Sempre buscando aprender algo novo e evoluir como desenvolvedor.</p>
+<p align="left">
+🎓 Estudante de Engenharia de Software  <br>
+💻 Focado em desenvolvimento back-end, Java e construção de sistemas  <br>
+🚀 Interessado em arquitetura de software, banco de dados e soluções SaaS <br><br>
+
+Sou apaixonado por tecnologia, programação e resolução de problemas.  
+Atualmente estudo Engenharia de Software e desenvolvo projetos acadêmicos e pessoais para evoluir minhas habilidades práticas em desenvolvimento de sistemas.<br><br>
+
+Tenho interesse principalmente em:<br><br>
+
+- Desenvolvimento Back-end<br>
+- Java<br>
+- Spring<br>
+- Banco de Dados<br>
+- APIs REST<br>
+- Arquitetura de Software<br>
+- Desenvolvimento SaaS<br><br>
+
+## 📚 Projetos<br><br>
+
+🔹 Soluções em Java<br>
+🔹 Exercícios de lógica de programação  <br>
+🔹 Projetos pessoais voltados para automação e SaaS  <br>
+🔹 Desenvolvimento de portfólio pessoal  <br><br>
+
+⭐ Sempre buscando aprender algo novo e evoluir como desenvolvedor.
+</p>
 
 ###
 
@@ -39,5 +75,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
+```
